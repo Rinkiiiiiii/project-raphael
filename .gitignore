@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Notes and scratch files
+*.notes
+
+# data files
+sub_programs/client_behavioral_data_files/
